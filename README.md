@@ -4,7 +4,7 @@ Automated exploratory and stress testing of mobile apps.
 #
 It can exert the app under test for a long period of time - in theory, forever  serving as a stress testing tool as well. 
 
-Like a monkey, it goes randomly through the app and stops when the app is not intractable anymore, or when the time runs out.
+Like a monkey, it goes randomly through all of the screens and stops when the app cannot be interacted with anymore, or when the time runs out.
 
 
 How it works:
