@@ -1,0 +1,20 @@
+[caps]
+noReset = true
+locationServicesEnabled = true
+locationServicesAuthorized = true
+launchTimeout = 120000
+sendKeyStrategy = "setValue"
+interKeyDelay = 700
+waitForAppScript = 'true'
+showIOSLog = true
+useNewWDA = false
+
+platformName = "ios"
+platformVersion = "12.0"
+deviceName = "iPhone 7"
+automationName = "XCUITest"
+newCommandTimeout=120
+commandTimeouts='120000'
+simpleIsVisibleCheck = true
+preventWDAAttachments = true
+app = '..path/to/test.app'
