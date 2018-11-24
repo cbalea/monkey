@@ -13,3 +13,4 @@ How it works:
 - the `rules` folder contains one file for each action, or "rule" that Monkey know to perform (new rules can be added at any time)
 - in case of a crash or hang, the test will fail
 - using the log file which Monkey creates you can trace back which action was performed on which screen and in what order.
+- further enhancements will include video recordings
