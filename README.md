@@ -1,2 +1,2 @@
 # monkey
-Nondeterministic &amp; automated exploratory testing
+Nondeterministic automated exploratory testing of mobile apps.
