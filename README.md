@@ -2,7 +2,9 @@
 Automated exploratory and stress testing of mobile apps.
 
 #
-This tool was designed to hunt for bugs and crashes in a mobile app. Like a monkey, it clicks randomly through your app and stops when the app is not interactable anymore, or when it got "bored".
+This tool was designed to hunt for bugs and crashes in a mobile app. It also can exhert the app under test for a long period of time, serving as a stress testing tool.
+
+Like a monkey, it clicks randomly through your app and stops when the app is not interactable anymore, or when it got "bored".
 
 How it works:
 - it uses [Appium](http://appium.io) to control the app under test
